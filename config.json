@@ -1,0 +1,15 @@
+{
+    "Token": "YOUR_TELEGRAM_BOT_TOKEN",
+    "Backups": [
+        {
+            "Name": "site",
+            "Path": "C:/xampp/htdocs",
+            "ChatId": here
+        },
+        {
+            "Name": "projects",
+            "Path": "D:/Data/Projects",
+            "ChatId": here
+        }
+    ]
+} 
